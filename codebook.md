@@ -11,10 +11,7 @@ I.) Identifiers
 
 Colum 1, name = Subject, type = integer, remark = The ID of the 30 subjects ( Range from 1 - 30) 
 
-Colum 2, name = Activity, type = string, remark = The type of activity that the subjects were performing
-
-Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying
-
+Colum 2, name = Activity, type = string, remark = The type of activity that the subjects were performing ( Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying ) 
 
 
 II.) Measurements
