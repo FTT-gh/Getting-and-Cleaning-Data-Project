@@ -16,6 +16,6 @@ Colum 2, name = Activity, type = string, remark = The type of activity that the 
 
 II.) Measurements
 
-Colum 3 - 66,  name = list below, type = numeric, remark = These 64 variables are only of the mean and standard values for the measurement based on the subject and the activity
+Colum 3 - 66,  name = list below, type = numeric, remark = These 64 variables are the mean and standard values for the measurement based on the subject and the activity
 
 ![image](https://user-images.githubusercontent.com/78473729/112620962-77399d80-8e29-11eb-84a4-f5a2d5595f70.png)
