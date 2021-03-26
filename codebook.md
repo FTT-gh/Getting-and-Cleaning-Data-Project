@@ -23,16 +23,16 @@ Laying
 II.) Measurements
 name = list below, type = numeric, remark = These 66 variables are only of the mean and standard values for the measurement based on the subject and the activity
 
-tBodyAccmeanX
-tBodyAccmeanY
-tBodyAccmeanZ
-tBodyAccstdX
-tBodyAccstdY
-tBodyAccstdZ
-tGravityAccmeanX
-tGravityAccmeanY
-tGravityAccmeanZ
-tGravityAccstdX
+tBodyAccmeanX 
+tBodyAccmeanY 
+tBodyAccmeanZ 
+tBodyAccstdX 
+tBodyAccstdY 
+tBodyAccstdZ 
+tGravityAccmeanX 
+tGravityAccmeanY 
+tGravityAccmeanZ 
+tGravityAccstdX 
 tGravityAccstdY
 tGravityAccstdZ
 tBodyAccJerkmeanX
