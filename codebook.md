@@ -2,22 +2,15 @@ Code Book
 
 This Code book is for the Coursera "Getting and Cleaning Data" course project
 It describes all of the data fields in the file: tidydata.txt.
-Type: Textfile
-Encoding = UTF-8
-Header = Yes
+Type: Textfile, Encoding = UTF-8, Header = Yes,
 
 
 I.) Identifiers
-name = Subject, type = integer, remark = The ID of the 30 subjects
-Range from 1 - 30
+name = Subject, type = integer, remark = The ID of the 30 subjects ( Range from 1 - 30) 
 
 name = Activity, type = string, remark = The type of activity that the subjects were performing
-Walking
-Walking Upstairs
-Walking Downstairs
-Sitting
-Standing
-Laying
+
+Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying
 
 
 II.) Measurements
